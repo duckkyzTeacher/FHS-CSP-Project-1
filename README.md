@@ -9,3 +9,6 @@ Students will create a simple recommendation system that asks the user a series 
   - Based on the user’s answers, provide a recommendation or response.
 - Handle Different Responses:
   - Use if/else statements to handle different answers and provide corresponding recommendations.
+
+## Example Code:
+There is an example script in the project that gives sample scenaior. You CANNOT use this as your example.
